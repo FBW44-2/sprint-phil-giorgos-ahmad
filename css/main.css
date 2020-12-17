@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+.features-6 {
+  max-width: 1000px;
+  margin: 50px auto;
+}
+
+.card-body {
+  width: 90%;
+  top: 80%;
+  left: 5%;
+}
+/*# sourceMappingURL=main.css.map */
