@@ -1,32 +1,12 @@
-.features-6 {
-  max-width: 1000px;
-  margin: 50px auto;
 
-}
-
-.card-body {
-    width: 90%;
-    top: 80%;
-    left: 5%;
-}
-
-
-footer {
-  font-family: "Montserrat", sans-serif;
-}
 //=================================== BASICS STYLING
 
 
 
 
 //=================================== COMPONENTS
-@import "utils/variables";
 
-@import "pages/header";
-@import "pages/footer";
-@import "utils/reset";
-@import "layout/grid";
-@import "layout/margin";
+
 
 
 //=================================== LAYOUT
