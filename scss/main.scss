@@ -1,4 +1,4 @@
-@import "footer/footer";
+
 
 footer {
   font-family: "Montserrat", sans-serif;
@@ -9,8 +9,13 @@ footer {
 
 
 //=================================== COMPONENTS
+@import "utils/variables";
 
-
+@import "pages/header";
+@import "pages/footer";
+@import "utils/reset";
+@import "layout/grid";
+@import "layout/margin";
 
 
 //=================================== LAYOUT
